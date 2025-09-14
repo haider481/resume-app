@@ -13,6 +13,7 @@
     "html2canvas": "^1.4.1",
     "jspdf": "^3.0.2",
     "react": "^19.1.1",
+<<<<<<< HEAD
     "react-dom": "^19.1.1",
     "react-phone-input-2": "^2.15.1"
   },
@@ -23,12 +24,24 @@
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",
     "autoprefixer": "^10.4.21",
+=======
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.0",
+>>>>>>> 681ed15894d91233a67a91631086cbc91ca9135f
     "eslint": "^9.33.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
+<<<<<<< HEAD
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.13",
+=======
+>>>>>>> 681ed15894d91233a67a91631086cbc91ca9135f
     "vite": "^7.1.2"
   }
 }
